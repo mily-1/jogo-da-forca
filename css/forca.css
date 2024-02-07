@@ -9,6 +9,7 @@ body{
     height: 90vw;
     margin-top: 10px;
     background-image:url(../img/fundo.jpg);
+    backgorund-size:couver;
     font-family:'Ubuntu', sans-serif ;
 }
 .container{
